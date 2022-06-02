@@ -10,11 +10,19 @@
 
 ## Steps to run the app
 
+### From Github
 1. Clone project
 2. Open project in terminal
 3. Run `pod install` (ensure CocoaPods is installed on your device)
 4. Run `open EmployeeDirectory.xcworkspace`
 5. Press Run or `ctrl + r`
+
+### From zip file
+1. Unzip project
+2. Open a terminal and navigate to the project directory level where this readme is also found
+3. Run `open EmployeeDirectory.xcworkspace`
+4. Once Xcode opens and indexes the project, choose simulator type (ex. iPhone 13 pro)
+5. Run `ctrl + r`
 
 ## What areas of the app did you focus on?
 
