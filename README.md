@@ -20,9 +20,10 @@
 ### From zip file
 1. Unzip project
 2. Open a terminal and navigate to the project directory level where this readme is also found
-3. Run `open EmployeeDirectory.xcworkspace`
-4. Once Xcode opens and indexes the project, choose simulator type (ex. iPhone 13 pro)
-5. Run `ctrl + r`
+3. Run `pod install` (ensure CocoaPods is installed on your device)
+4. Run `open EmployeeDirectory.xcworkspace`
+5. Once Xcode opens and indexes the project, choose simulator type (ex. iPhone 13 pro)
+6. Run `ctrl + r`
 
 ## What areas of the app did you focus on?
 
